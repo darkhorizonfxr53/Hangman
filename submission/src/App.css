@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Poppins", "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #0c0c13;
+}
+
+/*custom css*/
+
+:root {
+  --main-color: #07ffc9;
+  --error-color: #ff1100;
+  --secondary-color: #158cee;
+  --hash-color: #d6dfdf;
+}
